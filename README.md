@@ -77,7 +77,4 @@
   - We're are open to enhancements & bug-fixes.
   - Feel free to add issues and submit patches.
   ## Authors
-  - Rishabh Sharma - https://github.com/redhairrs
   - Aditya Dargan -  https://github.com/AdityaDargan
-  - Ayush Kumar Singh Rathor - https://github.com/AKSRathor
-  - Abhinv Kumar - https://github.com/Abhin4vKumar
